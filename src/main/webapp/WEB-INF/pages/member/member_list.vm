@@ -1,0 +1,4 @@
+members
+#foreach($member in $members)
+	$member.mobile
+#end
